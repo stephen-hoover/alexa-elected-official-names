@@ -1,0 +1,16 @@
+*.zip
+*.pyc
+*.so
+*~
+.ipynb_checkpoints
+.cache
+.idea
+*config.py
+#*
+
+# External libraries
+certifi*
+chardet*
+requests*
+idna*
+urllib3*
